@@ -80,6 +80,6 @@ Make sure your eff's pre-trained model/finetuned model is placed in model_saved
 
 # Flow
 ## Image Embedding
-![avatar](./doc/image_flow_ver1.jpg) 
+![avatar](./doc/image_flow_ver1.png) 
 
 You can read our report "Final_Project_Report" which is in this ropo.I 'll update it now.
